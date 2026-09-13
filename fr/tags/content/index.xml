@@ -1,12 +1,12 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>contenu - Balise - 育儿嫂-煜华</title>
-        <link>http://localhost:62495/fr/tags/content/</link>
+        <link>http://localhost:62247/fr/tags/content/</link>
         <description>contenu - Balise - 育儿嫂-煜华</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="http://localhost:62495/fr/tags/content/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="http://localhost:62247/fr/tags/content/" rel="self" type="application/rss+xml" /><item>
     <title>Thème Documentation - Contenu</title>
-    <link>http://localhost:62495/fr/02-theme-documentation-content/</link>
-    <pubDate>Thu, 05 Mar 2020 16:30:05 &#43;0800</pubDate><guid>http://localhost:62495/fr/02-theme-documentation-content/</guid>
+    <link>http://localhost:62247/fr/02-theme-documentation-content/</link>
+    <pubDate>Thu, 05 Mar 2020 16:30:05 &#43;0800</pubDate><guid>http://localhost:62247/fr/02-theme-documentation-content/</guid>
     <description><![CDATA[<p>Découvrez comment créer et organiser votre contenu rapidement et intuitivement dans le thème <strong>FeelIt</strong>.</p>]]></description>
 </item>
 </channel>

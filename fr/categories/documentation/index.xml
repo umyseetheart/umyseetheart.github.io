@@ -1,30 +1,30 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Documentation - Catégorie - 育儿嫂-煜华</title>
-        <link>http://localhost:62495/fr/categories/documentation/</link>
+        <link>http://localhost:62247/fr/categories/documentation/</link>
         <description>Documentation - Catégorie - 育儿嫂-煜华</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="http://localhost:62495/fr/categories/documentation/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="http://localhost:62247/fr/categories/documentation/" rel="self" type="application/rss+xml" /><item>
     <title>Thème Documentation - Concepts de Base</title>
-    <link>http://localhost:62495/fr/01-theme-documentation-basics/</link>
-    <pubDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</pubDate><guid>http://localhost:62495/fr/01-theme-documentation-basics/</guid>
+    <link>http://localhost:62247/fr/01-theme-documentation-basics/</link>
+    <pubDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</pubDate><guid>http://localhost:62247/fr/01-theme-documentation-basics/</guid>
     <description><![CDATA[<p>Découvrez en quoi consiste le thème Hugo - <strong>FeelIt</strong> et les concepts fondamentaux qui le sous-tendent.</p>]]></description>
 </item>
 <item>
     <title>Thème Documentation - Contenu</title>
-    <link>http://localhost:62495/fr/02-theme-documentation-content/</link>
-    <pubDate>Thu, 05 Mar 2020 16:30:05 &#43;0800</pubDate><guid>http://localhost:62495/fr/02-theme-documentation-content/</guid>
+    <link>http://localhost:62247/fr/02-theme-documentation-content/</link>
+    <pubDate>Thu, 05 Mar 2020 16:30:05 &#43;0800</pubDate><guid>http://localhost:62247/fr/02-theme-documentation-content/</guid>
     <description><![CDATA[<p>Découvrez comment créer et organiser votre contenu rapidement et intuitivement dans le thème <strong>FeelIt</strong>.</p>]]></description>
 </item>
 <item>
     <title>Thème Documentation - Built-in Shortcodes</title>
-    <link>http://localhost:62495/fr/03-theme-documentation-built-in-shortcodes/</link>
-    <pubDate>Wed, 04 Mar 2020 16:29:59 &#43;0800</pubDate><guid>http://localhost:62495/fr/03-theme-documentation-built-in-shortcodes/</guid>
+    <link>http://localhost:62247/fr/03-theme-documentation-built-in-shortcodes/</link>
+    <pubDate>Wed, 04 Mar 2020 16:29:59 &#43;0800</pubDate><guid>http://localhost:62247/fr/03-theme-documentation-built-in-shortcodes/</guid>
     <description><![CDATA[<p><strong>Hugo</strong> fournit plusieurs shortcodes intégrés pour la commodité de l&rsquo;auteur et pour garder votre contenu de démarque propre.</p>]]></description>
 </item>
 <item>
     <title>Thème Documentation - Extended Shortcodes</title>
-    <link>http://localhost:62495/fr/04-theme-documentation-extended-shortcodes/</link>
-    <pubDate>Tue, 03 Mar 2020 16:29:59 &#43;0800</pubDate><guid>http://localhost:62495/fr/04-theme-documentation-extended-shortcodes/</guid>
+    <link>http://localhost:62247/fr/04-theme-documentation-extended-shortcodes/</link>
+    <pubDate>Tue, 03 Mar 2020 16:29:59 &#43;0800</pubDate><guid>http://localhost:62247/fr/04-theme-documentation-extended-shortcodes/</guid>
     <description><![CDATA[<p>Le thème <strong>FeelIt</strong> fournit plusieurs shortcodes en plus de ceux intégrés dans Hugo.</p>]]></description>
 </item>
 </channel>

@@ -1,12 +1,12 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>HTML - Balise - 育儿嫂-煜华</title>
-        <link>http://localhost:62495/fr/tags/html/</link>
+        <link>http://localhost:62247/fr/tags/html/</link>
         <description>HTML - Balise - 育儿嫂-煜华</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="http://localhost:62495/fr/tags/html/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="http://localhost:62247/fr/tags/html/" rel="self" type="application/rss+xml" /><item>
     <title>Syntaxe de Markdown de Base</title>
-    <link>http://localhost:62495/fr/00-basic-markdown-syntax/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate><guid>http://localhost:62495/fr/00-basic-markdown-syntax/</guid>
+    <link>http://localhost:62247/fr/00-basic-markdown-syntax/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate><guid>http://localhost:62247/fr/00-basic-markdown-syntax/</guid>
     <description><![CDATA[<p>Cet article propose un exemple de syntaxe Markdown de base qui peut être utilisée dans les fichiers de contenu Hugo.</p>]]></description>
 </item>
 </channel>
